@@ -54,7 +54,7 @@ a:hover {
 
 /* HOME     --------------------------*/
 .home {
-    background: url("https://picsum.photos/800/?blur=1.jpg") no-repeat; /*picsum is a site that provides random images*/
+    background: url("../images/circuitBack2.png") no-repeat; /*picsum is a site that provides random images*/
     background-color: rgb(10 16 13 / 1);
     background-size: cover;
     display: flex;
@@ -100,7 +100,7 @@ a:hover {
     border-radius: 4px;
 }
 .about header::before{
-    background: url("https://picsum.photos/300/?blur=1.jpg") no-repeat center;
+    background: url("../images/circuitBack2.png") no-repeat center;
     background-size: cover;
     content: "";
     display: block;
